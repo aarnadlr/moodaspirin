@@ -9,13 +9,18 @@ export default function Logo(props){
 
       <style jsx>{`
       .logo{
-        width: ${props.width};
+        width: ${props.logoWidth};
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
       }
       .circle{
-
+        width: ${props.circWidth};
+        padding-bottom: 15px;
       }
       .text{
-
+        width: ${props.textWidth};
       }
     `}</style>
     </div>

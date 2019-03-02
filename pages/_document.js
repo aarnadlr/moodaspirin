@@ -17,7 +17,7 @@ class MyDocument extends Document {
           <meta name="description" content="moodaspirin"/>
           <meta name="subject" content="moodaspirin"/>
           <meta name="copyright"content="moodaspirin"/>
-          <meta name="language" content="EN"/>>
+          <meta name="language" content="EN"/>
           <meta name="robots" content="index,follow" />
 
           <meta name="og:title" content="moodaspirin"/>
@@ -29,16 +29,9 @@ class MyDocument extends Document {
           <meta name="tweetmeme-title" content="moodaspirin" />
 
 
-          <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png"/>>
-          <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png"/>
-          <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png"/>
-          <meta name="msapplication-TileColor" content="#da532c"/>
-          <meta name="theme-color" content="#ffffff"/>
-
-
-          {/* <link rel="shortcut icon" type="image/ico" href="../favicon.ico" /> */}
-          {/* <link rel="icon" type="image/ico" sizes="128x128" href="../favicon.ico"></link> */}
-
+          <link rel="apple-touch-icon" sizes="180x180" href="../static/apple-touch-icon.png"/>
+          <link rel="icon" type="image/png" sizes="32x32" href="../static/favicon-32x32.png"/>
+          <link rel="icon" type="image/png" sizes="16x16" href="../static/favicon-16x16.png"/>
         </Head>
         <body className="custom_class">
           <Main />

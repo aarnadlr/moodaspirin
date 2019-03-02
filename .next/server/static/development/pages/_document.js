@@ -2263,7 +2263,7 @@ function (_Document) {
           lineNumber: 20
         },
         __self: this
-      }), ">", react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("meta", {
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("meta", {
         name: "robots",
         content: "index,follow",
         __source: {
@@ -2330,17 +2330,17 @@ function (_Document) {
       }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
         rel: "apple-touch-icon",
         sizes: "180x180",
-        href: "../apple-touch-icon.png",
+        href: "../static/apple-touch-icon.png",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 32
         },
         __self: this
-      }), ">", react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
+      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("link", {
         rel: "icon",
         type: "image/png",
         sizes: "32x32",
-        href: "../favicon-32x32.png",
+        href: "../static/favicon-32x32.png",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 33
@@ -2350,45 +2350,29 @@ function (_Document) {
         rel: "icon",
         type: "image/png",
         sizes: "16x16",
-        href: "../favicon-16x16.png",
+        href: "../static/favicon-16x16.png",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 34
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("meta", {
-        name: "msapplication-TileColor",
-        content: "#da532c",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 35
-        },
-        __self: this
-      }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("meta", {
-        name: "theme-color",
-        content: "#ffffff",
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 36
         },
         __self: this
       })), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement("body", {
         className: "custom_class",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 43
+          lineNumber: 36
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(next_document__WEBPACK_IMPORTED_MODULE_9__["Main"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 44
+          lineNumber: 37
         },
         __self: this
       }), react__WEBPACK_IMPORTED_MODULE_8___default.a.createElement(next_document__WEBPACK_IMPORTED_MODULE_9__["NextScript"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 45
+          lineNumber: 38
         },
         __self: this
       })));
