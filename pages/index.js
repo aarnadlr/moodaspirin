@@ -1,6 +1,7 @@
 // import Link from /"next/link";
 // import Header from "../components/header";
 import Logo from "../components/Logo";
+import "../styles/styles.scss";
 
 export default () => (
   <main>
@@ -12,7 +13,6 @@ export default () => (
 
     <style jsx>{`
       main{
-        background:rgb(238, 238, 238);
       }
       .center{
         height: 100vh;

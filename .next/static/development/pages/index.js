@@ -1043,25 +1043,28 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_Logo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Logo */ "./components/Logo.js");
+/* harmony import */ var _styles_styles_scss__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../styles/styles.scss */ "./styles/styles.scss");
+/* harmony import */ var _styles_styles_scss__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_styles_scss__WEBPACK_IMPORTED_MODULE_3__);
 var _jsxFileName = "/Users/aaronadler/Desktop/MOODASPIRIN - ALL/moodaspirin/pages/index.js";
 
 
 // import Link from /"next/link";
 // import Header from "../components/header";
 
+
 /* harmony default export */ __webpack_exports__["default"] = (function () {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("main", {
-    className: "jsx-4208884008",
+    className: "jsx-3156861347",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 6
+      lineNumber: 7
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
-    className: "jsx-4208884008" + " " + "center",
+    className: "jsx-3156861347" + " " + "center",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 9
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_components_Logo__WEBPACK_IMPORTED_MODULE_2__["default"], {
@@ -1070,13 +1073,13 @@ var _jsxFileName = "/Users/aaronadler/Desktop/MOODASPIRIN - ALL/moodaspirin/page
     textWidth: '220px',
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 9
+      lineNumber: 10
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "4208884008",
+    id: "3156861347",
     __self: this
-  }, "main.jsx-4208884008{background:rgb(238,238,238);}.center.jsx-4208884008{height:100vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hYXJvbmFkbGVyL0Rlc2t0b3AvTU9PREFTUElSSU4gLSBBTEwvbW9vZGFzcGlyaW4vcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBWWdCLEFBR3NDLEFBR2hCLGFBQ0EsZUFIZiwyREFJeUIsbUdBQ0osNkZBQ3JCIiwiZmlsZSI6Ii9Vc2Vycy9hYXJvbmFkbGVyL0Rlc2t0b3AvTU9PREFTUElSSU4gLSBBTEwvbW9vZGFzcGlyaW4vcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBpbXBvcnQgTGluayBmcm9tIC9cIm5leHQvbGlua1wiO1xuLy8gaW1wb3J0IEhlYWRlciBmcm9tIFwiLi4vY29tcG9uZW50cy9oZWFkZXJcIjtcbmltcG9ydCBMb2dvIGZyb20gXCIuLi9jb21wb25lbnRzL0xvZ29cIjtcblxuZXhwb3J0IGRlZmF1bHQgKCkgPT4gKFxuICA8bWFpbj5cbiAgICBcbiAgICA8ZGl2IGNsYXNzTmFtZT1cImNlbnRlclwiPlxuICAgICAgPExvZ28gbG9nb1dpZHRoPXsnJ30gY2lyY1dpZHRoPXsnMTgwcHgnfSAgdGV4dFdpZHRoPXsnMjIwcHgnfS8+XG4gICAgPC9kaXY+XG5cblxuICAgIDxzdHlsZSBqc3g+e2BcbiAgICAgIG1haW57XG4gICAgICAgIGJhY2tncm91bmQ6cmdiKDIzOCwgMjM4LCAyMzgpO1xuICAgICAgfVxuICAgICAgLmNlbnRlcntcbiAgICAgICAgaGVpZ2h0OiAxMDB2aDtcbiAgICAgICAgZGlzcGxheTogZmxleDtcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICA8L21haW4+XG4pOyJdfQ== */\n/*@ sourceURL=/Users/aaronadler/Desktop/MOODASPIRIN - ALL/moodaspirin/pages/index.js */"));
+  }, ".center.jsx-3156861347{height:100vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9hYXJvbmFkbGVyL0Rlc2t0b3AvTU9PREFTUElSSU4gLSBBTEwvbW9vZGFzcGlyaW4vcGFnZXMvaW5kZXguanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBYWdCLEFBS3NCLGFBQ0EsMEVBQ1UsbUdBQ0osNkZBQ3JCIiwiZmlsZSI6Ii9Vc2Vycy9hYXJvbmFkbGVyL0Rlc2t0b3AvTU9PREFTUElSSU4gLSBBTEwvbW9vZGFzcGlyaW4vcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBpbXBvcnQgTGluayBmcm9tIC9cIm5leHQvbGlua1wiO1xuLy8gaW1wb3J0IEhlYWRlciBmcm9tIFwiLi4vY29tcG9uZW50cy9oZWFkZXJcIjtcbmltcG9ydCBMb2dvIGZyb20gXCIuLi9jb21wb25lbnRzL0xvZ29cIjtcbmltcG9ydCBcIi4uL3N0eWxlcy9zdHlsZXMuc2Nzc1wiO1xuXG5leHBvcnQgZGVmYXVsdCAoKSA9PiAoXG4gIDxtYWluPlxuICAgIFxuICAgIDxkaXYgY2xhc3NOYW1lPVwiY2VudGVyXCI+XG4gICAgICA8TG9nbyBsb2dvV2lkdGg9eycnfSBjaXJjV2lkdGg9eycxODBweCd9ICB0ZXh0V2lkdGg9eycyMjBweCd9Lz5cbiAgICA8L2Rpdj5cblxuXG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgbWFpbntcbiAgICAgIH1cbiAgICAgIC5jZW50ZXJ7XG4gICAgICAgIGhlaWdodDogMTAwdmg7XG4gICAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cbiAgPC9tYWluPlxuKTsiXX0= */\n/*@ sourceURL=/Users/aaronadler/Desktop/MOODASPIRIN - ALL/moodaspirin/pages/index.js */"));
 });
 
 /***/ }),
@@ -1104,5 +1107,5 @@ module.exports = dll_3681e7fd756237ce51c6;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]));;
+},[[1,"static/runtime/webpack.js","styles"]]]));;
 //# sourceMappingURL=index.js.map
